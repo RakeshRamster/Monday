@@ -1,0 +1,7 @@
+First file
+Second file
+<<<<<<< HEAD
+3rd commit
+=======
+Third file
+>>>>>>> slave
